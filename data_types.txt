@@ -1,4 +1,18 @@
+Integer types
+-------------
 byte
 short
 int 
 long
+-------------
+
++++++++++++++
+
+Numbers with floating point
+---------------------------
+float
+double
+decimal
+
+---------------------------
+

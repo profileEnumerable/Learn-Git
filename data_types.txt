@@ -31,3 +31,9 @@ Nullable value types
 Extensions of all other value types with a null value
 ---------------------------
 
++++++++++++++
+
+Delegate types
+---------------------------
+User-defined types of the form delegate int D(...)
+---------------------------

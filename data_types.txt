@@ -23,4 +23,11 @@ char
 string
 StringBuilderer
 ---------------------------
-bla-bla-bla-mgla what do you type here ?
+
++++++++++++++
+
+Nullable value types
+---------------------------
+Extensions of all other value types with a null value
+---------------------------
+

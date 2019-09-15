@@ -41,3 +41,9 @@ I was back
 hard work is back
 
 Non fast-forward marge
+
+Reference types
+Class types
+Ultimate base class of all other types: object
+Unicode strings: string
+User-defined types of the form class C {...}

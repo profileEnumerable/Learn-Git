@@ -37,3 +37,6 @@ Delegate types
 ---------------------------
 User-defined types of the form delegate int D(...)
 ---------------------------
+
+Array types
+Single- and multi-dimensional, for example, int[] and int[,]

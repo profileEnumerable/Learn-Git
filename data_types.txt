@@ -37,10 +37,6 @@ Delegate types
 ---------------------------
 User-defined types of the form delegate int D(...)
 ---------------------------
-I was back
-hard work is back
-
-Non fast-forward marge
 
 Reference types
 Class types

@@ -46,4 +46,3 @@ User-defined types of the form class C {...}
 
 Array types
 Single- and multi-dimensional, for example, int[] and int[,]
-
